@@ -94,7 +94,7 @@ h1 {
   overflow: hidden;
 }
 
-@media (min-width: 320px) {
+@media (max-width: 320px) {
 	.board{
 		width: 305px;
 		height: 498px;
